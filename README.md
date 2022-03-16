@@ -1,5 +1,5 @@
 👋 Hi, I’m @poo-2
-<br>I'm a techncial writer learning git.
+<br>I'm a techncial writer learning Git.</br>
 
 <!---
 poo-2/poo-2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
