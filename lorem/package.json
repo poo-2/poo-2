@@ -1,0 +1,25 @@
+{
+  "name": "lorem",
+  "version": "1.0.0",
+  "main": "lorem.js",
+  "bin": {
+    "lorem": "lorem.js"
+  },
+  "scripts": {
+    "start": "node lorem.js"
+  },
+  "pkg": {
+    "targets": [
+      "node18-linux-x64",
+      "node18-macos-x64",
+      "node218-win-x64"
+    ]
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
